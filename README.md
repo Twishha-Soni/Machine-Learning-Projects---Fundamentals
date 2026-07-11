@@ -23,10 +23,6 @@ The purpose of this repository is strictly educational—to track my learning pr
 * **Language:** Python 3
 * **Libraries:** Scikit-Learn, TensorFlow, Keras, NumPy, Pandas, Matplotlib
 
-## 📂 Repository Structure
-* `/notebooks` - Chapter-by-chapter notebook implementations with my personal notes.
-* `/exercises` - My custom solutions to the end-of-chapter exercises.
-
 ---
 *Disclaimer: This repository does not contain the copyrighted textbook prose, illustrations, or text. To fully understand the code, please support the author by purchasing the official book.*
 
