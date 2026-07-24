@@ -6,7 +6,7 @@ The purpose of this repository is strictly educational—to track my learning pr
 
 ## 📌 Attribution & Credits
 * **Original Author:** Aurélien Géron
-* **Official Book Repository:** [ageron/handson-ml3](https://github.com)
+* **Official Book Repository:** [ageron/handson-ml3](https://github.com/ageron/handson-ml3)
 * **Publisher:** O'Reilly Media
 
 *Note: All core code structure and notebook layouts are attributed to the original author. The modifications, notes, and exercise solutions inside the notebooks represent my own work and learning process.*
